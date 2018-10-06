@@ -1,0 +1,26 @@
+{
+  "name": "callbag-flat-map-lazy",
+  "version": "1.0.0",
+  "description": "A callbag operator that maps items to sources and flattens them lazily",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mperktold/callbag-flat-map-lazy.git"
+  },
+  "keywords": [
+    "callbag"
+  ],
+  "author": "Matthias Perktold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mperktold/callbag-flat-map-lazy/issues"
+  },
+  "homepage": "https://github.com/mperktold/callbag-flat-map-lazy#readme",
+  "devDependencies": {
+    "tape": "^4.9.0",
+    "callbag-basics": "^2.0.1"
+  }
+}
